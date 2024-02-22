@@ -42,11 +42,11 @@
 <h2 align="center">💎 Stats 💎</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=stas9878&count_private=true&show_icons=true&theme=buefy&rank_icon=github&border_radius=10" alt="readme stats"/>
+  <img width="425" src="https://github-readme-stats.vercel.app/api?username=stas9878&count_private=true&show_icons=true&theme=buefy&rank_icon=github&border_radius=10" alt="readme stats"/>
 
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stas9878&langs_count=8&layout=donut&theme=buefy&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stas9878&langs_count=8&layout=donut&theme=buefy&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   <br>
-  <img width=325 align="center" src="https://streak-stats.demolab.com?user=stas9878&theme=buefy&border_radius=10)](https://git.io/streak-stats" alt="strike"/>
+  <img width="425" align="center" src="https://streak-stats.demolab.com?user=stas9878&theme=buefy&border_radius=10)](https://git.io/streak-stats" alt="strike"/>
 </div>
 <br/><br/>
 
