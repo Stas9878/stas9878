@@ -48,5 +48,11 @@
   <br>
   <img width="425" align="center" src="https://streak-stats.demolab.com?user=stas9878&theme=buefy&border_radius=10)](https://git.io/streak-stats" alt="strike"/>
 </div>
-<br/><br/>
+<br/>
+
+</hr>
+<div align=center>
+  <img width="425" align="center" src="https://leetcard.jacoblin.cool/stas9878?theme=unicorn" alt="strike"/>
+</div>
+
 
