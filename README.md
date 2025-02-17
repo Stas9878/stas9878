@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 💡 I’m currently learning **FAST API, ALGORITHMS, AIOGRAM**
+ 💡 I’m currently learning **MULTIPROCESSING, ALGORITHMS, DOCKER**
 
  </div>
  
