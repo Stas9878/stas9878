@@ -31,8 +31,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,django,postgresql,fastapi" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,redis,postman,github,git" />
-    
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,redis,postman,github,git" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,docker,ollama,langchain,llm,qdrant,linux,bash,uvloop" />
 </div>
 
 <br/>
