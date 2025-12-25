@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 💡 I’m currently learning **AI-Agents, ALGORITHMS, Programming with LLLM**
+ 💡 I’m currently learning **AI-Agents, ALGORITHMS, Programming with LLM**
 
  </div>
  
