@@ -30,9 +30,24 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,django,postgresql,fastapi" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,redis,postman,github,git" /><br>
-    <img src="https://skillicons.dev/icons?i=javascript,docker,ollama,langchain,llm,qdrant,linux,bash,uvloop" />
+  <!-- Backend -->
+  <h4>🐍 Backend</h4>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgresql,mysql,redis,rabbitmq,linux,bash" /><br><br>
+
+  <!-- Frontend -->
+  <h4>🎨 Frontend</h4>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap" /><br><br>
+
+  <!-- DevOps & Utils -->
+  <h4>🛠️ DevOps & Utils</h4>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,vscode,postman" /><br><br>
+
+  <!-- LLM & AI Stack -->
+  <h4>🧠 LLM & AI</h4>
+  <img src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-FF4A00?logo=qdrant&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrewAI-4D4D4D?logo=github&logoColor=white" />
 </div>
 
 <br/>
