@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=400&height=70&duration=4000&lines=Welcome!+🔥;+I'm+Stanislav+Popov!;" />
 </h1>
 
-<h3 align="center">Middle Backend Python Developer From Russia 💻</h3>
+<h3 align="center">Middle AI Engineer From Russia 💻</h3>
 
 <br/>
 
