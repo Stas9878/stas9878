@@ -12,10 +12,10 @@
 
 <div align="center"> 
     <a href="https://stepik.org/users/578911838/teach">
-        <img src="https://img.shields.io/badge/stepik-333333?style=for-the-badge&logo=stepik&logoColor=red" />
+        <img src="https://img.shields.io/badge/stepik-333333?style=for-the-badge"/>
     </a>
   <a href="mailto:busipac@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
 </div>
 
