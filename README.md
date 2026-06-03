@@ -10,19 +10,12 @@
  
  💡 I’m currently learning **AI-Agents, ALGORITHMS, Programming with LLM**
 
- </div>
-
 <div align="center"> 
-  <a href="mailto:https://stepik.org/users/578911838/teach">
-    <img src="https://img.shields.io/badge/stepik-333333?style=for-the-badge&logo=stepik&logoColor=red" />
-  </a>
-  </a>
-</div>
- 
-<div align="center"> 
+    <a href="https://stepik.org/users/578911838/teach">
+        <img src="https://img.shields.io/badge/stepik-333333?style=for-the-badge&logo=stepik&logoColor=red" />
+    </a>
   <a href="mailto:busipac@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
   </a>
 </div>
 
