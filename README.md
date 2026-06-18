@@ -40,8 +40,9 @@
   <h4>🧠 LLM & AI</h4>
   <img src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qdrant-FF4A00?logo=qdrant&logoColor=white" />
-  <img src="https://img.shields.io/badge/CrewAI-4D4D4D?logo=github&logoColor=white" />
+   <img src="https://img.shields.io/badge/LangGraph-000000?logo=langgraph&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-000000?logo=qdrant&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrewAI-000000?logo=github&logoColor=white" />
 </div>
 
 <br/>
